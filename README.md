@@ -9,7 +9,10 @@ This bot is based on the BCDice system and provides the ability to roll dice and
   * [https://github.com/bcdice/BCDice](https://github.com/bcdice/BCDice)
 
 ## Author & License
-* たいたい竹流 さん
+* Author
+  * Faceless さん
+  * たいたい竹流 さん
 
-* BSD 3-Clause License
-  * [https://github.com/Ay2416/TrpgDiceBot/blob/main/LICENSE](https://github.com/Ay2416/TrpgDiceBot/blob/main/LICENSE)
+* License
+  * BSD 3-Clause License
+    * [https://github.com/Ay2416/TrpgDiceBot/blob/main/LICENSE](https://github.com/Ay2416/TrpgDiceBot/blob/main/LICENSE)
